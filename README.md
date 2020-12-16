@@ -21,11 +21,22 @@ You will not be banned by Amazon because of using proxies out of the box, but [y
 
 ## Python
 
-### Amazon_scraper [🎁](https://github.com/adamlwgriffiths/amazon_scraper)
+### tducret/amazon-scraper-python [🎁](https://github.com/tducret/amazon-scraper-python)
+Retrieves basic product info: title, tating, number of reviews, url, img, asin.
+In addition you can also pass a search url (if you added complex filters for example), and save it to a file.
 
+### adamlwgriffiths/amazon_scraper [🎁](https://github.com/adamlwgriffiths/amazon_scraper)
 Needs Amazon API key
 ````
 >>> from amazon_scraper import AmazonScraper
 >>> amzn = AmazonScraper("put your access key", "secret key", "and associate tag here")
 ````
 This package looks quite complete, it also allows to get reviews written by a specific user.
+
+### scrapehero-code [🎁](https://github.com/scrapehero-code)
+Different scrapers. Available commercial version.
+One extracts product details and prices from Amazon.com.
+Another scrapes reviews form URL.
+
+### philipperemy/amazon-reviews-scraper [🎁](https://github.com/philipperemy/amazon-reviews-scraper)
+Scrapes reviews. Integrates possibility to use VPN and automatic IP auto switching.
