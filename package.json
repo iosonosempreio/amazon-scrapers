@@ -1,0 +1,11 @@
+{
+  "name": "amazon-scrapers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iosonosempreio <iosonosempreio@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@scrapingant/amazon-proxy-scraper": "^1.2.0",
+    "amazon-buddy": "^2.2.21"
+  }
+}
