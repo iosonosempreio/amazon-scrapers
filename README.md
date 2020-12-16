@@ -1,6 +1,6 @@
 # Benchmarking of Amazon scrapers
 
-List of JS scrapers. Compiled between Dec 16 2020 and XXX XX XXXX.
+A list of JS and Python scrapers compiled on Dec 2020.
 
 Aim is to get:
 - amazon book recommendation networks
