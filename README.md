@@ -40,3 +40,6 @@ Another scrapes reviews form URL.
 
 ### philipperemy/amazon-reviews-scraper [🎁](https://github.com/philipperemy/amazon-reviews-scraper)
 Scrapes reviews. Integrates possibility to use VPN and automatic IP auto switching.
+
+### digitalmethodsinitiative/dmi-amazon-recscraper [🎁](https://github.com/digitalmethodsinitiative/dmi-amazon-recscraper)
+Scrapes recommendation networks of products form list of URLs.
