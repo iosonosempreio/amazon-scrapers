@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@scrapingant/amazon-proxy-scraper": "^1.2.0",
-    "amazon-buddy": "^2.2.21"
+    "amazon-buddy": "^2.2.21",
+    "json2csv": "^5.0.5"
   }
 }
